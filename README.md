@@ -8,7 +8,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 원하는 것은 끝까지. </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=danielhjpark&custom_title=danielhjpark's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhjpark&show_icons=true&theme=bear)
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhjpark&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
